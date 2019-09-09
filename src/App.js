@@ -14,20 +14,19 @@ class App extends Component {
 
     onSearchChange = e => {
         this.setState({ searchfield: e.target.value });
+    };
+
+    render() {
         const filteredCuteCats = this.state.cuteCats.filter(cuteCat => {
             return cuteCat.name
                 .toLowerCase()
                 .includes(this.state.searchfield.toLowerCase());
         });
-        console.log(filteredCuteCats);
-    };
-
-    render() {
         return (
             <div className="tc">
                 <h1 className="hot-pink grow">Cute Cats</h1>
                 <SearchBox searchChange={this.onSearchChange} />
-                <CardList cuteCats={this.state.cuteCats} />
+                <CardList cuteCats={filteredCuteCats} />
             </div>
         );
     }
