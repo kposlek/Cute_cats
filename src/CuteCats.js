@@ -21,7 +21,7 @@ export const cuteCats = [
     },
     {
         id: 5,
-        name: 'Izabel Walter Resetar',
+        name: 'Izabel Walter',
         email: 'easymitizzy@gmail.com'
     },
     {
