@@ -9,7 +9,7 @@ class Card extends Component {
                     className="w-70"
                     src="https://robohash.org/kitty?set=set4"
                 />
-                <h1 className="dt w-100 mt1">Cute Cats</h1>
+                <h2 className="dt w-100 mt1">Cute Cats</h2>
             </div>
         );
     }
