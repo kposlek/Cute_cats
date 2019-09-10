@@ -1,8 +1,9 @@
 import React from 'react';
+import './Card.css';
 
 const Card = ({ id, name, email }) => {
     return (
-        <div className="tc ba green bg-washed-red dib br3 pa3 ma2 b--hot-pink mv4 w-100 w-50-m w-25-l mw5 grow shadow-5">
+        <div className="tc ba green  bg-white-60 dib br3 pa3 ma2 b--hot-pink mv4 w-100 w-50-m w-25-l mw5 grow shadow-5">
             <img
                 alt="cats"
                 className="w-70"
