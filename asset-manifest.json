@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Cute_cats/static/css/main.eaee4dce.chunk.css",
+    "main.js": "/Cute_cats/static/js/main.eb427b64.chunk.js",
+    "main.js.map": "/Cute_cats/static/js/main.eb427b64.chunk.js.map",
+    "runtime~main.js": "/Cute_cats/static/js/runtime~main.0ee4a060.js",
+    "runtime~main.js.map": "/Cute_cats/static/js/runtime~main.0ee4a060.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/Cute_cats/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.64e6e452.chunk.js": "/Cute_cats/static/js/2.64e6e452.chunk.js",
+    "static/js/2.64e6e452.chunk.js.map": "/Cute_cats/static/js/2.64e6e452.chunk.js.map",
+    "index.html": "/Cute_cats/index.html",
+    "precache-manifest.b1b7cd1937c0c1b6f4434ab01585b467.js": "/Cute_cats/precache-manifest.b1b7cd1937c0c1b6f4434ab01585b467.js",
+    "service-worker.js": "/Cute_cats/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/Cute_cats/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.eaee4dce.chunk.css.map": "/Cute_cats/static/css/main.eaee4dce.chunk.css.map",
+    "static/media/App.css": "/Cute_cats/static/media/SEGA.12a3db8b.woff"
+  }
+}
